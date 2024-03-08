@@ -1,4 +1,4 @@
-# Los-Angeles-Crime-Trends-2020-2023-Data-Analysis-Tableau
+# Los Angeles Crime Trends (2020-2023): Data Analysis(Tableau)
 
 The main objective of this project was to leverage Tableau for comprehensive data analysis, with a focus on maximizing the effectiveness of data visualization techniques. Through the strategic utilization of Tableau, the aim was to distill complex datasets into actionable insights by creating intuitive and interactive dashboards.
 
